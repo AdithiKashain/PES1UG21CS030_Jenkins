@@ -5,7 +5,7 @@ pipeline {
             steps {
                 script {
                     // Replace 'main.cpp' with the correct name of your C++ file
-                    sh 'g++ main.cpp -o output'
+                    sh 'g++ working.cpp -o output'
                 }
             }
         }
