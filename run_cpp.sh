@@ -4,4 +4,4 @@
 # g++ -o output_executable working.cpp
 
 # Execute the compiled executable and print its output
-./output_executable
+./output
